@@ -18,7 +18,6 @@ public:
 
 int floorInBST(TreeNode<int> *root, int x)
 {
-    // Write your code here.
     int floor = -1;
     while (root)
     {
